@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KeaYas
+- 👀 I have a keen interest in learning from others and contributing to creating a more amicable coding community.
+- 🌱 I’m currently learning Java & Assembly Language
+- 💞️ Feel free to send me a message on GitHub :)
